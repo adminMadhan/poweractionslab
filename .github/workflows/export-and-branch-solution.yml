@@ -25,9 +25,9 @@ on:
        default: solutions/
 env:
 #edit your values here
-  ENVIRONMENT_URL: '<ENVIRONMENTURL>'
-  CLIENT_ID: '<APPID>'
-  TENANT_ID: '<TENANT ID>'
+  ENVIRONMENT_URL: 'https://make.powerautomate.com/environments/21838c3a-02fd-e524-9290-67e71fab501a'
+  CLIENT_ID: '3477c6d0-03eb-4190-979f-5048181c4c00'
+  TENANT_ID: '6a071fce-65d6-481b-9ab9-4674ef4aa3f9'
 permissions:
   contents: write
 jobs:
