@@ -25,7 +25,7 @@ on:
        default: solutions/
 env:
 #edit your values here
-  ENVIRONMENT_URL: 'https://make.powerautomate.com/environments/Default-6a071fce-65d6-481b-9ab9-4674ef4aa3f9'
+  ENVIRONMENT_URL: 'orga0ce3d90.crm.dynamics.com'
   CLIENT_ID: '3477c6d0-03eb-4190-979f-5048181c4c00'
   TENANT_ID: '6a071fce-65d6-481b-9ab9-4674ef4aa3f9'
 permissions:
